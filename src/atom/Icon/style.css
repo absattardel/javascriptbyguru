@@ -1,0 +1,15 @@
+.world {
+    object-position: 0 0;
+  }
+
+  .mail {
+    object-position: 0 -75px;
+  }
+
+  .info {
+    object-position: 0 -154px;
+  }
+
+ .book {
+    object-position: 0 -234px;
+  }
